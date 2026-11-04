@@ -4,6 +4,11 @@ Et strukturert og defensivt testrammeverk utviklet for automatisk verifisering a
 
 Rammeverket er designet med et rent, profesjonelt bedriftsgrensesnitt og inkluderer en realistisk bedriftsportal (**NordicFlow ERP & Ordreregister**) for demonstrasjon og testing.
 
+<img width="959" height="548" alt="image" src="https://github.com/user-attachments/assets/82d6697e-212b-4dbf-bb7a-567ec5c34038" />
+<img width="954" height="515" alt="image" src="https://github.com/user-attachments/assets/b708dffe-92fa-4ecd-a190-b265bbd9b52c" />
+<img width="950" height="497" alt="image" src="https://github.com/user-attachments/assets/77832739-ac4b-4dfa-9e78-1b5f5b426fa8" />
+
+
 ---
 
 ## 1. Målvalidering og virkemåte
